@@ -1,56 +1,81 @@
 ﻿<Infos>
   <Item name="Adventure Works DW.cube">
-    <Time>639311520866256474</Time>
+    <Time>639312214570634169</Time>
     <Hash length="20">
-      <b>34</b>
-      <b>110</b>
-      <b>163</b>
-      <b>28</b>
-      <b>216</b>
-      <b>118</b>
-      <b>199</b>
-      <b>199</b>
-      <b>135</b>
-      <b>104</b>
+      <b>66</b>
+      <b>208</b>
+      <b>182</b>
+      <b>98</b>
+      <b>103</b>
+      <b>180</b>
+      <b>22</b>
+      <b>169</b>
+      <b>198</b>
+      <b>212</b>
+      <b>80</b>
+      <b>247</b>
+      <b>29</b>
+      <b>228</b>
       <b>205</b>
-      <b>251</b>
-      <b>145</b>
-      <b>120</b>
-      <b>110</b>
-      <b>204</b>
-      <b>248</b>
       <b>211</b>
-      <b>184</b>
-      <b>199</b>
+      <b>72</b>
+      <b>116</b>
+      <b>217</b>
+      <b>56</b>
     </Hash>
   </Item>
-  <Item name="Adventure Works DW.dsv">
-    <Time>639311511630375516</Time>
+  <Item name="Dim Customer.dim">
+    <Time>639312138823516841</Time>
     <Hash length="20">
-      <b>27</b>
-      <b>251</b>
-      <b>228</b>
-      <b>163</b>
-      <b>159</b>
-      <b>134</b>
-      <b>100</b>
-      <b>165</b>
-      <b>225</b>
-      <b>69</b>
-      <b>185</b>
-      <b>254</b>
-      <b>50</b>
+      <b>112</b>
+      <b>199</b>
+      <b>10</b>
+      <b>58</b>
+      <b>20</b>
+      <b>193</b>
+      <b>162</b>
       <b>116</b>
-      <b>85</b>
-      <b>142</b>
+      <b>93</b>
+      <b>11</b>
+      <b>6</b>
+      <b>113</b>
+      <b>1</b>
+      <b>148</b>
       <b>189</b>
-      <b>143</b>
-      <b>82</b>
-      <b>185</b>
+      <b>86</b>
+      <b>210</b>
+      <b>78</b>
+      <b>237</b>
+      <b>168</b>
+    </Hash>
+  </Item>
+  <Item name="MultidimensionalProject5.database">
+    <Time>639312138824146845</Time>
+    <Hash length="20">
+      <b>196</b>
+      <b>74</b>
+      <b>180</b>
+      <b>34</b>
+      <b>187</b>
+      <b>86</b>
+      <b>20</b>
+      <b>70</b>
+      <b>191</b>
+      <b>238</b>
+      <b>43</b>
+      <b>32</b>
+      <b>28</b>
+      <b>0</b>
+      <b>64</b>
+      <b>48</b>
+      <b>168</b>
+      <b>68</b>
+      <b>163</b>
+      <b>140</b>
     </Hash>
   </Item>
   <Item name="Fact Internet Sales.dim">
-    <Time>638725572810457770</Time>
+    <Time>639312138824066761</Time>
     <Hash length="20">
       <b>98</b>
       <b>152</b>
@@ -75,7 +100,7 @@
     </Hash>
   </Item>
   <Item name="Adventure Works DW.ds">
-    <Time>638725560625827170</Time>
+    <Time>639312138823106823</Time>
     <Hash length="20">
       <b>169</b>
       <b>141</b>
@@ -100,7 +125,7 @@
     </Hash>
   </Item>
   <Item name="Dim Product Category.dim">
-    <Time>639311392405387651</Time>
+    <Time>639312138823766833</Time>
     <Hash length="20">
       <b>212</b>
       <b>7</b>
@@ -124,33 +149,33 @@
       <b>133</b>
     </Hash>
   </Item>
-  <Item name="Dim Customer.dim">
-    <Time>638725569479802931</Time>
+  <Item name="Adventure Works DW.dsv">
+    <Time>639312138823296818</Time>
     <Hash length="20">
-      <b>112</b>
-      <b>199</b>
-      <b>10</b>
-      <b>58</b>
-      <b>20</b>
-      <b>193</b>
-      <b>162</b>
+      <b>27</b>
+      <b>251</b>
+      <b>228</b>
+      <b>163</b>
+      <b>159</b>
+      <b>134</b>
+      <b>100</b>
+      <b>165</b>
+      <b>225</b>
+      <b>69</b>
+      <b>185</b>
+      <b>254</b>
+      <b>50</b>
       <b>116</b>
-      <b>93</b>
-      <b>11</b>
-      <b>6</b>
-      <b>113</b>
-      <b>1</b>
-      <b>148</b>
+      <b>85</b>
+      <b>142</b>
       <b>189</b>
-      <b>86</b>
-      <b>210</b>
-      <b>78</b>
-      <b>237</b>
-      <b>168</b>
+      <b>143</b>
+      <b>82</b>
+      <b>185</b>
     </Hash>
   </Item>
   <Item name="Adventure Works DW.partitions">
-    <Time>638725572811239022</Time>
+    <Time>639312138823406811</Time>
     <Hash length="20">
       <b>181</b>
       <b>16</b>
@@ -175,7 +200,7 @@
     </Hash>
   </Item>
   <Item name="Dim Sales Territory.dim">
-    <Time>638725572102459125</Time>
+    <Time>639312138823956805</Time>
     <Hash length="20">
       <b>197</b>
       <b>71</b>
@@ -199,58 +224,33 @@
       <b>51</b>
     </Hash>
   </Item>
-  <Item name="MultidimensionalProject5.database">
-    <Time>638725560278107838</Time>
-    <Hash length="20">
-      <b>196</b>
-      <b>74</b>
-      <b>180</b>
-      <b>34</b>
-      <b>187</b>
-      <b>86</b>
-      <b>20</b>
-      <b>70</b>
-      <b>191</b>
-      <b>238</b>
-      <b>43</b>
-      <b>32</b>
-      <b>28</b>
-      <b>0</b>
-      <b>64</b>
-      <b>48</b>
-      <b>168</b>
-      <b>68</b>
-      <b>163</b>
-      <b>140</b>
-    </Hash>
-  </Item>
   <Item name="Dim Product.dim">
-    <Time>639311514486627506</Time>
+    <Time>639312214574693865</Time>
     <Hash length="20">
-      <b>60</b>
-      <b>67</b>
-      <b>126</b>
-      <b>215</b>
-      <b>189</b>
-      <b>121</b>
-      <b>226</b>
-      <b>31</b>
-      <b>135</b>
-      <b>240</b>
-      <b>220</b>
-      <b>35</b>
-      <b>125</b>
-      <b>39</b>
-      <b>127</b>
-      <b>64</b>
+      <b>193</b>
+      <b>124</b>
+      <b>124</b>
+      <b>92</b>
+      <b>48</b>
+      <b>159</b>
+      <b>198</b>
+      <b>175</b>
       <b>247</b>
-      <b>1</b>
-      <b>32</b>
-      <b>177</b>
+      <b>193</b>
+      <b>75</b>
+      <b>162</b>
+      <b>45</b>
+      <b>74</b>
+      <b>193</b>
+      <b>96</b>
+      <b>4</b>
+      <b>109</b>
+      <b>181</b>
+      <b>17</b>
     </Hash>
   </Item>
   <Item name="Dim Date.dim">
-    <Time>639311492985438880</Time>
+    <Time>639312138823636843</Time>
     <Hash length="20">
       <b>91</b>
       <b>232</b>

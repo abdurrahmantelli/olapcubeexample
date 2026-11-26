@@ -19,63 +19,63 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>qY3VDC7TOHo1dN6sdmR3Id23jOI=15.01.2025 16:41:0215.01.2025 16:41:02</TimeStamp>
+        <TimeStamp>qY3VDC7TOHo1dN6sdmR3Id23jOI=25.11.2026 14:31:2225.11.2026 14:31:22</TimeStamp>
         <ID>
           <String>Adventure Works DW</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>G/vko5+GZKXhRbn+MnRVjr2PUrk=24.11.2026 21:06:0324.11.2026 13:30:04</TimeStamp>
+        <TimeStamp>G/vko5+GZKXhRbn+MnRVjr2PUrk=25.11.2026 14:31:2225.11.2026 14:31:22</TimeStamp>
         <ID>
           <String>Adventure Works DW</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>cMcKOhTBonRdCwZxAZS9VtJO7ag=15.01.2025 16:55:4715.01.2025 16:55:47</TimeStamp>
+        <TimeStamp>cMcKOhTBonRdCwZxAZS9VtJO7ag=25.11.2026 14:31:2225.11.2026 14:31:22</TimeStamp>
         <ID>
           <String>Dim Customer</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>PEN+17154h+H8NwjfSd/QPcBILE=24.11.2026 21:10:4815.01.2025 16:58:38</TimeStamp>
+        <TimeStamp>wXx8XDCfxq/3wUuiLUrBYARttRE=25.11.2026 16:37:3725.11.2026 14:31:22</TimeStamp>
         <ID>
           <String>Dim Product</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>xUe89v1m1VnZU/LHBLY/1S6tZTM=15.01.2025 17:00:1015.01.2025 16:59:20</TimeStamp>
+        <TimeStamp>xUe89v1m1VnZU/LHBLY/1S6tZTM=25.11.2026 14:31:2225.11.2026 14:31:22</TimeStamp>
         <ID>
           <String>Dim Sales Territory</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>YphPvtdoyT3aZgkN3d/R40EL8ag=15.01.2025 17:01:2115.01.2025 17:01:20</TimeStamp>
+        <TimeStamp>YphPvtdoyT3aZgkN3d/R40EL8ag=25.11.2026 14:31:2225.11.2026 14:31:22</TimeStamp>
         <ID>
           <String>Fact Internet Sales</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>1AfqQxnECIHzQjA3MPWw0IqrCIU=24.11.2026 17:47:2024.11.2026 17:47:19</TimeStamp>
+        <TimeStamp>1AfqQxnECIHzQjA3MPWw0IqrCIU=25.11.2026 14:31:2225.11.2026 14:31:22</TimeStamp>
         <ID>
           <String>Dim Product Category</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>W+gwAPKi6S3UaWPj6dx8qYA5wKY=24.11.2026 20:34:5824.11.2026 18:19:15</TimeStamp>
+        <TimeStamp>W+gwAPKi6S3UaWPj6dx8qYA5wKY=25.11.2026 14:31:2225.11.2026 14:31:22</TimeStamp>
         <ID>
           <String>Dim Date</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>Im6jHNh2x8eHaM37kXhuzPjTuMc=24.11.2026 21:21:2615.01.2025 17:01:20tRDWDSSB3v7Lz6X5U1zkMnohYGY=15.01.2025 17:01:2115.01.2025 17:01:20</TimeStamp>
+        <TimeStamp>QtC2Yme0FqnG1FD3HeTN00h02Tg=25.11.2026 16:37:3725.11.2026 14:31:22tRDWDSSB3v7Lz6X5U1zkMnohYGY=25.11.2026 14:31:2225.11.2026 14:31:22</TimeStamp>
         <ID>
           <String>Adventure Works DW</String>
         </ID>
@@ -83,7 +83,7 @@
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
-      <TimeStamp>xEq0IrtWFEa/7isgHABAMKhEo4w=15.01.2025 16:40:2715.01.2025 16:40:27</TimeStamp>
+      <TimeStamp>xEq0IrtWFEa/7isgHABAMKhEo4w=25.11.2026 14:31:2225.11.2026 14:31:22</TimeStamp>
       <ID>
         <String>MultidimensionalProject5</String>
       </ID>
@@ -92,5 +92,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2026-11-24T18:21:58.54Z</LastDeployed>
+  <LastDeployed>2026-11-25T13:38:06.41Z</LastDeployed>
 </DeploymentSnapshot>
